@@ -2,6 +2,13 @@
 # Model Evaluation and Validation
 ## Project: Predicting Boston Housing Prices
 
+### Udacity
+
+This is my assignment for the SmartCab project of the Udacity Nano Degree on Machine Learning https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009
+
+You can find here the original projects 
+https://github.com/udacity/machine-learning
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
